@@ -1,0 +1,83 @@
+{
+    "topic": "Hajj in Islam",
+    "category": "Ibadah",
+    "description": "Hajj is the fifth pillar of Islam and a once-in-a-lifetime obligation for all Muslims who are physically and financially able. It is a pilgrimage to the holy city of Makkah performed annually during the Islamic month of Dhul-Hijjah. Hajj symbolizes submission to Allah and unity among Muslims.",
+    "importance": [
+      {
+        "text": "And [due] to Allah from the people is a pilgrimage to the House – for whoever is able to find thereto a way.",
+        "reference": "Surah Aal-e-Imran 3:97"
+      },
+      {
+        "text": "Complete the Hajj and Umrah for Allah.",
+        "reference": "Surah Al-Baqarah 2:196"
+      }
+    ],
+    "conditions": [
+      "Being Muslim",
+      "Being an adult of sound mind",
+      "Financial ability (after covering basic needs and debts)",
+      "Physical ability",
+      "Mahram (for women, if required by school of thought)"
+    ],
+    "types_of_hajj": {
+      "Hajj al-Ifrad": "Only Hajj is performed without Umrah.",
+      "Hajj al-Tamattu": "Umrah is performed first, then Hajj in the same year (most common).",
+      "Hajj al-Qiran": "Umrah and Hajj are performed together with one Ihram."
+    },
+    "pillars_of_hajj": [
+      "Ihram (intention + state of consecration)",
+      "Standing at Arafah (Wuquf)",
+      "Tawaf al-Ifadah (circling the Ka'bah)",
+      "Sa'i (walking between Safa and Marwah)"
+    ],
+    "obligatory_acts": [
+      "Ihram from Miqat",
+      "Staying in Muzdalifah",
+      "Stoning the Jamarat",
+      "Animal sacrifice (if Tamattu or Qiran)",
+      "Shaving/cutting hair",
+      "Tawaf al-Wada' (farewell Tawaf)"
+    ],
+    "steps_of_hajj": [
+      "Enter Ihram with intention and Talbiyah",
+      "Tawaf and Sa’i for Umrah (if Tamattu)",
+      "Stay in Mina on 8th Dhul-Hijjah",
+      "Stand at Arafah on 9th (most critical pillar)",
+      "Stay overnight in Muzdalifah",
+      "Stone Jamarat al-Aqabah on 10th",
+      "Animal sacrifice and shave/cut hair",
+      "Tawaf al-Ifadah and Sa’i (if not done)",
+      "Return to Mina, stone all 3 Jamarat (11th–13th)",
+      "Final Tawaf (Tawaf al-Wada') before leaving Makkah"
+    ],
+    "hadiths": [
+      {
+        "text": "Whoever performs Hajj for the sake of Allah and does not have sexual relations, nor commit sin, nor dispute unjustly during the Hajj, will return as free of sin as the day he was born.",
+        "reference": "Sahih Bukhari 1521"
+      },
+      {
+        "text": "Hajj is Arafah. Whoever reaches Arafah before dawn on the night of Muzdalifah has completed Hajj.",
+        "reference": "Tirmidhi 889"
+      }
+    ],
+    "benefits": [
+      "Spiritual cleansing and rebirth",
+      "Unity of the global Muslim ummah",
+      "Fulfilling a lifelong obligation",
+      "Deep connection to Prophet Ibrahim’s legacy",
+      "Reminder of the Day of Judgment"
+    ],
+    "recommended_etiquettes": [
+      "Show patience and humility",
+      "Increase remembrance of Allah (dhikr, takbir, dua)",
+      "Avoid arguments or worldly distractions",
+      "Dress simply and avoid extravagance",
+      "Help fellow pilgrims and maintain cleanliness"
+    ],
+    "resources": {
+      "video_guide": "https://www.youtube.com/watch?v=VX50pbgJwCU",
+      "official_guide": "https://www.hajinformation.com/",
+      "book_reference": "Fiqh-us-Sunnah by Sayyid Sabiq, Volume 5"
+    }
+  }
+  

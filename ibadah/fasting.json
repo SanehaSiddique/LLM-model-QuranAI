@@ -1,0 +1,81 @@
+{
+    "topic": "Fasting in Islam (Sawm)",
+    "category": "Ibadah",
+    "description": "Fasting (Sawm) is the fourth pillar of Islam. It involves abstaining from food, drink, sexual relations, and sinful behavior from dawn (Fajr) until sunset (Maghrib) during the month of Ramadan. It is an act of worship, self-discipline, and spiritual reflection.",
+    "importance": [
+      {
+        "text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous.",
+        "reference": "Surah Al-Baqarah 2:183"
+      },
+      {
+        "text": "The month of Ramadan [is that] in which was revealed the Qur’an, a guidance for the people and clear proofs of guidance and criterion.",
+        "reference": "Surah Al-Baqarah 2:185"
+      }
+    ],
+    "types_of_fasting": {
+      "obligatory": [
+        "Ramadan fasts",
+        "Qada fasts (making up missed Ramadan fasts)",
+        "Kaffarah fasts (expiation)",
+        "Fasts for vows (Nadhr)"
+      ],
+      "voluntary": [
+        "Mondays and Thursdays",
+        "13th, 14th, and 15th of each Islamic month",
+        "Day of Arafah (9th Dhul Hijjah)",
+        "Ashura (10th Muharram)",
+        "Six days of Shawwal after Ramadan"
+      ]
+    },
+    "conditions": [
+      "Being Muslim",
+      "Being mentally and physically able",
+      "Intention (Niyyah) before Fajr",
+      "Abstaining from anything that breaks the fast"
+    ],
+    "things_that_break_fast": [
+      "Eating or drinking intentionally",
+      "Sexual relations",
+      "Deliberate vomiting",
+      "Menstruation or postnatal bleeding",
+      "Taking injections that nourish the body (e.g. glucose IVs)"
+    ],
+    "exemptions": [
+      "Children",
+      "Elderly who cannot fast",
+      "Chronically ill",
+      "Pregnant or breastfeeding women (if fasting harms them or the baby)",
+      "Travelers (with option to make it up later)",
+      "Menstruating or postpartum women (must make up later)"
+    ],
+    "hadiths": [
+      {
+        "text": "Whoever fasts Ramadan out of faith and seeking reward, his past sins will be forgiven.",
+        "reference": "Sahih Bukhari 38"
+      },
+      {
+        "text": "Fasting is a shield. So the person observing fasting should avoid obscene speech and ignorant behavior.",
+        "reference": "Sahih Bukhari 1894"
+      }
+    ],
+    "benefits": [
+      "Develops self-discipline and taqwa",
+      "Increases empathy for the poor",
+      "Cleanses body and soul",
+      "Improves spiritual connection with Allah",
+      "Encourages Qur'an recitation and good deeds"
+    ],
+    "recommended_etiquettes": [
+      "Make intention before Fajr",
+      "Eat Suhoor (pre-dawn meal)",
+      "Break the fast immediately after Maghrib with dates and water",
+      "Avoid idle talk, anger, and sins",
+      "Increase in Duas, charity, and Qur'an recitation"
+    ],
+    "resources": {
+      "video_guide": "https://www.youtube.com/watch?v=gwZ8IFcS0lA",
+      "pdf_guide": "https://www.islamicfinder.org/knowledge/ramadan/ramadan-fasting-guide/",
+      "book_reference": "Fiqh-us-Sunnah by Sayyid Sabiq, Volume 3"
+    }
+  }
+  

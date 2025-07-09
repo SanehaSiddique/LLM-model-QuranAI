@@ -1,0 +1,64 @@
+{
+    "topic": "Wudu (Ablution) in Islam",
+    "category": "Ibadah",
+    "description": "Wudu is the Islamic procedure for cleansing certain parts of the body using water before acts of worship like Salah. It is a condition for the validity of the prayer and a sign of both physical and spiritual purification.",
+    "importance": [
+        {
+            "text": "O you who believe! When you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and [wash] your feet to the ankles.",
+            "reference": "Surah Al-Ma'idah 5:6"
+        }
+    ],
+    "steps_of_wudu": [
+        "Make the intention (niyyah) for Wudu.",
+        "Say 'Bismillah' before starting.",
+        "Wash both hands up to the wrists three times.",
+        "Rinse the mouth three times.",
+        "Rinse the nose by inhaling water and blowing it out three times.",
+        "Wash the face three times.",
+        "Wash both arms up to the elbows three times, starting with the right.",
+        "Wipe the entire head once (masah).",
+        "Wipe the ears using the same wet hands.",
+        "Wash both feet up to the ankles three times, starting with the right."
+    ],
+    "conditions_for_validity": [
+        "Use of clean and pure water",
+        "Correct order of washing",
+        "Washing each part without significant interruption",
+        "Proper intention (niyyah)"
+    ],
+    "things_that_break_wudu": [
+        "Natural discharges (urine, stool, gas, etc.)",
+        "Deep sleep",
+        "Loss of consciousness (e.g. fainting)",
+        "Touching private parts with the hand without barrier (according to some scholars)"
+    ],
+    "hadiths": [
+        {
+            "text": "No one makes Wudu and does it well, then prays two Rak’ahs without being distracted, except that Paradise is guaranteed for him.",
+            "reference": "Sahih Muslim 228"
+        },
+        {
+            "text": "When a Muslim or a believer washes his face in Wudu, every sin which he committed with his eyes will be washed away with the last drop of water...",
+            "reference": "Sahih Muslim 244"
+        }
+    ],
+    "benefits": [
+        "Purifies the body before prayer",
+        "A form of minor purification (tahara)",
+        "Removes minor sins",
+        "Refreshes body and mind",
+        "Acts of Wudu are rewarded spiritually"
+    ],
+    "recommended_etiquettes": [
+        "Say Bismillah before starting",
+        "Do Wudu before every prayer even if not required (if still in state of Wudu)",
+        "Use minimal water (avoid wastage)",
+        "Face Qiblah while performing Wudu (optional but recommended)",
+        "Perform Wudu in a clean place"
+    ],
+    "resources": {
+        "video_guide": "https://www.youtube.com/watch?v=jM0QoZrZuhU",
+        "pdf_guide": "https://www.islamicfinder.org/knowledge/purification/how-to-perform-wudu/",
+        "book_reference": "Fiqh-us-Sunnah by Sayyid Sabiq, Volume 1"
+    }
+}

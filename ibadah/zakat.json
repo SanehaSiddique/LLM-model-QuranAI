@@ -1,0 +1,79 @@
+{
+    "topic": "Zakat in Islam",
+    "category": "Ibadah",
+    "description": "Zakat is the third pillar of Islam. It is an obligatory act of charity where Muslims must give a fixed portion (2.5%) of their accumulated wealth annually to the needy. It purifies wealth, supports the community, and promotes social justice.",
+    "importance": [
+      {
+        "text": "And establish prayer and give zakah, and whatever good you put forward for yourselves – you will find it with Allah.",
+        "reference": "Surah Al-Baqarah 2:110"
+      },
+      {
+        "text": "Take, [O Muhammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allah’s blessings] upon them.",
+        "reference": "Surah At-Tawbah 9:103"
+      }
+    ],
+    "who_pays_zakat": [
+      "Muslim adults who are sane and free",
+      "Must meet or exceed the Nisab (minimum amount of wealth)",
+      "Must possess this wealth for a full lunar year"
+    ],
+    "nisab_threshold": {
+      "gold": "87.48 grams",
+      "silver": "612.36 grams",
+      "value": "Or equivalent in cash or trade goods"
+    },
+    "rate": "2.5% of total zakatable assets after one lunar year",
+    "zakatable_assets": [
+      "Cash in hand and bank accounts",
+      "Gold and silver",
+      "Trade goods and business inventory",
+      "Shares and stocks (based on intention)",
+      "Rental income savings"
+    ],
+    "non_zakatable_assets": [
+      "Personal residence",
+      "Personal vehicle",
+      "Clothing",
+      "Daily personal items"
+    ],
+    "eligible_recipients": [
+      "The poor (al-fuqara)",
+      "The needy (al-masakin)",
+      "Zakat workers (those employed to collect it)",
+      "Those whose hearts are to be reconciled",
+      "Those in bondage (to free captives)",
+      "Those in debt (unable to repay)",
+      "In the cause of Allah (e.g., da’wah, defense)",
+      "The stranded traveler"
+    ],
+    "hadiths": [
+      {
+        "text": "Islam is built upon five pillars: testimony, prayer, zakat, fasting, and pilgrimage.",
+        "reference": "Sahih Bukhari 8"
+      },
+      {
+        "text": "Whoever is made wealthy by Allah and does not pay the Zakat of his wealth, then on the Day of Resurrection it will be made like a bald-headed poisonous male snake with two black spots over the eyes...",
+        "reference": "Sahih Bukhari 1403"
+      }
+    ],
+    "benefits": [
+      "Purifies wealth and soul",
+      "Bridges the gap between rich and poor",
+      "Supports the weak and vulnerable",
+      "Encourages social solidarity",
+      "Reduces poverty and economic inequality"
+    ],
+    "recommended_etiquettes": [
+      "Calculate accurately and give honestly",
+      "Pay Zakat as soon as it's due",
+      "Prefer local needy if possible",
+      "Give with humility and sincerity",
+      "Avoid public boasting of giving"
+    ],
+    "resources": {
+      "zakat_calculator": "https://nzf.org.uk/zakat-calculator/",
+      "video_guide": "https://www.youtube.com/watch?v=skWyvTrCrMk",
+      "book_reference": "Fiqh-us-Sunnah by Sayyid Sabiq, Volume 3"
+    }
+  }
+  

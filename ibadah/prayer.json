@@ -1,0 +1,95 @@
+{
+    "topic": "Prayer in Islam (Salah)",
+    "category": "Ibadah",
+    "description": "Salah is the second pillar of Islam and the most important form of worship. It is obligatory for every adult Muslim and is performed five times a day at prescribed times. Salah involves physical movements, specific recitations, and spiritual focus directed entirely toward Allah.",
+    "importance": [
+        {
+            "text": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+            "reference": "Surah Taha 20:14"
+        },
+        {
+            "text": "Verily, the prayer is enjoined on the believers at fixed hours.",
+            "reference": "Surah An-Nisa 4:103"
+        }
+    ],
+    "types_of_prayer": {
+        "obligatory": [
+            "Fajr (2 rakats)",
+            "Dhuhr (4 rakats)",
+            "Asr (4 rakats)",
+            "Maghrib (3 rakats)",
+            "Isha (4 rakats)"
+        ],
+        "sunnah": [
+            "2 rakats before Fajr",
+            "2/4 rakats before Dhuhr and 2 after",
+            "2 rakats after Maghrib",
+            "2 rakats after Isha"
+        ],
+        "witr": "Odd-numbered prayer after Isha, recommended to end the day",
+        "tahajjud": "Voluntary night prayer after sleeping",
+        "taraweeh": "Special night prayers in Ramadan",
+        "janazah": "Funeral prayer with no ruku or sujood"
+    },
+    "conditions": [
+        "Being Muslim",
+        "Being of sound mind",
+        "Reaching the age of maturity",
+        "Cleanliness (wudu/ghusl)",
+        "Clean clothes and place",
+        "Covering the awrah",
+        "Facing the Qibla",
+        "Correct intention (Niyyah)"
+    ],
+    "pillars_of_salah": [
+        "Standing (Qiyam)",
+        "Opening Takbir (Allahu Akbar)",
+        "Reciting Al-Fatiha",
+        "Ruku (bowing)",
+        "Sujood (prostration)",
+        "Sitting between two sujoods",
+        "Final sitting and Tashahhud",
+        "Ending with Salam"
+    ],
+    "invalidators": [
+        "Speaking intentionally",
+        "Laughing",
+        "Eating or drinking",
+        "Exposing awrah",
+        "Losing wudu (e.g., passing wind)",
+        "Turning away from Qibla without reason"
+    ],
+    "hadiths": [
+        {
+            "text": "The first matter that the slave will be brought to account for on the Day of Judgment is the prayer. If it is sound, then the rest of his deeds will be sound.",
+            "reference": "Tirmidhi 413"
+        },
+        {
+            "text": "Between a man and shirk and kufr is the abandonment of prayer.",
+            "reference": "Sahih Muslim 82"
+        },
+        {
+            "text": "Pray as you have seen me praying.",
+            "reference": "Sahih Bukhari 631"
+        }
+    ],
+    "benefits": [
+        "Connects you with Allah five times a day",
+        "Purifies the heart and mind",
+        "Prevents immoral behavior",
+        "Provides discipline and structure",
+        "Strengthens community when prayed in congregation"
+    ],
+    "recommended_etiquettes": [
+        "Pray at the beginning of its time",
+        "Pray in congregation if possible",
+        "Dress modestly and cleanly",
+        "Focus and avoid haste",
+        "Use a clean place and prayer mat"
+    ],
+    "resources": {
+        "video_guide": "https://www.youtube.com/watch?v=oMKN6xXU0iA",
+        "pdf_guide": "https://www.islamicfinder.org/knowledge/salah/step-by-step-guide-to-prayer/",
+        "book_reference": "Fiqh-us-Sunnah by Sayyid Sabiq, Volume 1"
+    }
+}

@@ -26,7 +26,7 @@ class QueryRequest(BaseModel):
     query: str
     top_k: int = 6
 
-@app.post("/deen_buddy")
+@app.post("/quran-ai")
 async def deen_buddy_endpoint(
     request: QueryRequest
 ):

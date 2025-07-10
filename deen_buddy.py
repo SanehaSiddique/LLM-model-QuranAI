@@ -5,7 +5,7 @@ from query_processing import format_context, classify_query
 from emotion_detection import detect_emotion, initialize_emotion_classifier
 import numpy as np
 
-def deen_buddy(user_input: str, top_k: int, index, metadata, docs, embedding_model_name, llm_config):
+def deen_buddy(user_input: str, top_k: int, index, metadata, docs, embedding_model_name, llm_config, user_id: str = None):
     try:
         # Initialize models
         embedding_model = SentenceTransformer(embedding_model_name)

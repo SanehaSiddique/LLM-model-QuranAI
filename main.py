@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from config import load_config
 from data_processing import load_index
 from deen_buddy import deen_buddy
+import requests
 
 # Load environment variables
 load_dotenv()
@@ -40,7 +41,8 @@ async def deen_buddy_endpoint(
             metadata=metadata,
             docs=docs,
             embedding_model_name=config["EMBEDDING_MODEL"],
-            llm_config=config["LLM_CONFIG"]
+            llm_config=config["LLM_CONFIG"],
+            user_id=request.user_id
         )
         # Log or forward the interaction to Node backend
         interaction = {
@@ -49,8 +51,7 @@ async def deen_buddy_endpoint(
             "response": response
         }
         # Optionally: forward to Node.js backend using requests.post()
-        # import requests
-        # requests.post("http://localhost:3000/api/saveChat", json=interaction)
+        requests.post("http://localhost:5000/api/chat/store-chat", json=interaction)
 
         return {"response": response, "user_id": request.user_id}
     except Exception as e:

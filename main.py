@@ -9,12 +9,23 @@ from config import load_config
 from data_processing import load_index
 from deen_buddy import deen_buddy
 import requests
+from fastapi.middleware.cors import CORSMiddleware
+
 
 # Load environment variables
 load_dotenv()
 
 # Initialize FastAPI app
 app = FastAPI(title="QuranAI API", description="A compassionate Islamic companion API")
+
+# Allow frontend to call this backend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # frontend origin
+    allow_credentials=True,
+    allow_methods=["*"],  # or ["POST"] if you want to restrict
+    allow_headers=["*"],
+)
 
 # Load configuration
 config = load_config()
